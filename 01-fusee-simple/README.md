@@ -1,19 +1,19 @@
-# Fusée à eau simple
+Fusée à eau simple
 
-## Objectif
+Objectif
 Construire une fusée à eau stable et comprendre l'effet du ratio eau/air
-et de la pression de lancement sur l'altitude atteinte.
+et de la pression de lancement.
 
-## Matériel
-- Bouteille PET 1.5L
-- Ailerons en carton plastifié (x3, 15cm x 10cm)
+Matériel
+- Bouteille 1.5L
+- Ailerons en carton
 - Cône de nez lesté (pâte à modeler)
 - Lanceur maison (tube PVC + joint torique + pompe à vélo)
 
 ![Matériel étalé](photos/materiel.jpg)
 *(Photo du matériel étalé avant construction : bouteilles, carton, colle, etc.)*
 
-## Méthode
+Méthode
 1. Ailerons collés à 120° autour de la base
    ![Découpe ailerons](photos/decoupe_ailerons.jpg)
    *(Photo montrant la découpe précise des ailerons)*
@@ -26,7 +26,7 @@ et de la pression de lancement sur l'altitude atteinte.
    ![Montage lanceur](photos/montage_lanceur.jpg)
    *(Photo de la fusée prête sur son lanceur)*
 
-## Résultats
+Résultats
 
 | Essai | Eau (ml) | Pression (bar) | Altitude estimée (m) | Notes |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ et de la pression de lancement sur l'altitude atteinte.
 ![Lancement](videos/lancement.gif)
 *(Vidéo ou GIF du lancement au ralenti)*
 
-## Ce qui a raté
+Ce qui a raté
 (à compléter après les essais — sois honnête, c'est la partie la plus utile)
 ![Dégâts](photos/degats.jpg)
 *(Photo de la fusée après l'atterrissage, montrant d'éventuels impacts)*
