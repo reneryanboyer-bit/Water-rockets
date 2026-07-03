@@ -42,5 +42,5 @@ Ce qui a raté
 ![Dégâts](photos/degats.jpg)
 *(Photo de la fusée après l'atterrissage, montrant d'éventuels impacts)*
 
-## Ce que je changerais
+Ce que je changerais
 (à compléter)
